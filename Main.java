@@ -1,6 +1,4 @@
 //Esmail Keshtkar
-//EMK140330
-//Project 1 
 import java.io.*;
 import java.util.*;
 
